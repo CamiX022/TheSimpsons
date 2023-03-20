@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #F4D03F;
+}
+
+@font-face{
+    font-family:letrasimpson;
+    src: url(/tipografic/Simpsonfont\ DEMO.otf);
+}
+
+p{
+    font-family:letrasimpson;
+}
+
+.btn2{
+    color: white;
+}
+
+li{
+    font-family:letrasimpson;
+}
+
